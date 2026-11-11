@@ -1,0 +1,14 @@
+{
+  "title": "The Aperiodic Jordan Algebras of Quasicrystals Are Not Jordan",
+  "upload_type": "software",
+  "description": "LaTeX source and verification code for the paper proving that the aperiodic Jordan algebras of Fibonacci-chain and icosahedral quasicrystals defined by quasiaddition are not Jordan algebras: they are not even power-associative, x^2x^2 = x^3x holding exactly for multiples of a basis element. Finite truncations are not Jordan, the proposed ideal is not an ideal, and the algebra has no unit and embeds in no Jordan algebra.",
+  "creators": [
+    {
+      "name": "Bhattacharjee, Deep",
+      "affiliation": "Electro-Gravitational Space Propulsion Laboratory (EGSPL)",
+      "orcid": "0000-0003-0466-750X"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["Jordan algebras", "power-associative algebras", "quasicrystals"]
+}
